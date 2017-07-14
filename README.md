@@ -1,9 +1,9 @@
-# reveal-skel
-## A Template for Presentations in [Reveal.js](https://github.com/hakimel/reveal.js/)
+# One Foundation: Faith in Christ (3/5)
+## Ephesians 2:8-10
 
-[![Build status](https://travis-ci.org/sermons/reveal-skel.svg)](https://travis-ci.org/sermons/reveal-skel)
-[![Node deps](https://david-dm.org/sermons/reveal-skel.svg)](https://david-dm.org/sermons/reveal-skel)
-[![Node devDeps](https://david-dm.org/sermons/reveal-skel/dev-status.svg)](https://david-dm.org/sermons/reveal-skel#info=devDependencies)
+[![Build status](https://travis-ci.org/sermons/found-faith.svg)](https://travis-ci.org/sermons/found-faith)
+[![Node deps](https://david-dm.org/sermons/found-faith.svg)](https://david-dm.org/sermons/found-faith)
+[![Node devDeps](https://david-dm.org/sermons/found-faith/dev-status.svg)](https://david-dm.org/sermons/found-faith#info=devDependencies)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
