@@ -21,13 +21,16 @@
 
 ---
 ## Week 3: Faith in Christ
-1. Saving **Faith**
-1. New **Birth** and Godly **Life**
-1. **Justification**
-1. **Sanctification**
-1. The **Church** of God
-1. **Baptism**
-1. The **Lord's Supper**
+1. What is **Faith**?
+  1. Saving **Faith**
+  1. New **Birth** and Godly **Life**
+1. Being Made **Holy**
+  1. **Justification**
+  1. **Sanctification**
+1. The **Sacraments**
+  1. The **Church** of God
+  1. **Baptism**
+  1. The **Lord's Supper**
 
 ---
 <!-- .slide: data-background="white" -->
