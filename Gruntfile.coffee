@@ -25,9 +25,9 @@ module.exports = (grunt) ->
         dest: 'phantomjs'
 
     exec:
-      print: 'chmod +x phantomjs; ./phantomjs decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
-      print_hd: 'chmod +x phantomjs; ./phantomjs decktape/decktape.js -s 1920x1080 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>_hd.pdf'
-      thumbnail: 'convert static/<%= pkg.shortname %>.pdf[0] -resize 50% static/img/thumbnail.jpg'
+      print: './phantomjs decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
+      print_hd: './phantomjs decktape/decktape.js -s 1920x1080 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>_hd.pdf'
+      thumbnail: './phantomjs decktape/decktape.js -s 1024x768 --screenshots --screenshots-format jpg --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/screenshot.jpg; ls -l'
 
     copy:
       index:
@@ -96,11 +96,15 @@ module.exports = (grunt) ->
     'Create .nojekyll file for Github Pages', ->
       grunt.file.write '.nojekyll', ''
 
+  grunt.registerTask 'install',
+    '*Install* dependencies', [
+      'curl:phantom'
+      'gitclone:decktape'
+    ]
+
   grunt.registerTask 'pdf',
     'Render a PDF copy of the presentation (using PhantomJS)', [
       'serve'
-      'gitclone:decktape'
-      'curl:phantom'
       'exec:print'
       'exec:thumbnail'
     ]
