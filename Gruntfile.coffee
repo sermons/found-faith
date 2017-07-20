@@ -25,6 +25,7 @@ module.exports = (grunt) ->
         dest: 'phantomjs'
 
     exec:
+      phantom: 'chmod +x phantomjs'
       print: './phantomjs decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
       print_hd: './phantomjs decktape/decktape.js -s 1920x1080 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>_hd.pdf'
       thumbnail: './phantomjs decktape/decktape.js -s 1024x768 --screenshots --screenshots-format jpg --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/screenshot.jpg; ls -l'
@@ -99,6 +100,7 @@ module.exports = (grunt) ->
   grunt.registerTask 'install',
     '*Install* dependencies', [
       'curl:phantom'
+      'exec:phantom'
       'gitclone:decktape'
     ]
 
