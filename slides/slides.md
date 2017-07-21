@@ -33,6 +33,28 @@
   1. The **Lord's Supper**
 
 ---
+These have been written so that you may **believe** <br/>
+that Jesus is the **Christ**, the **Son of God**; <br/>
+and that believing you may have **life** in His name.
+
+<div class="ref">
+John 20:31 (NASB)
+</div>
+
+---
+**Cast away** from you all the **transgressions** <br/>
+that you have committed, <br/>
+and make yourselves a **new heart** and a **new spirit**!
+
+**Why** will you die, O house of Israel? <br/>
+For I have **no pleasure** in the death of anyone, <br/>
+declares the Lord God; so **turn**, and **live**.
+
+<div class="ref">
+Ezekiel 18:31-32 (ESV)
+</div>
+
+---
 <!-- .slide: data-background="white" -->
 # Q1
 
