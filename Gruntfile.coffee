@@ -27,7 +27,6 @@ module.exports = (grunt) ->
     exec:
       phantom: 'chmod +x phantomjs'
       print: './phantomjs decktape/decktape.js -s 1024x768 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>.pdf'
-      print_hd: './phantomjs decktape/decktape.js -s 1920x1080 --load-pause=10000 reveal "http://localhost:9000/" static/<%= pkg.shortname %>_hd.pdf'
       thumbnail: './phantomjs decktape/decktape.js -s 1024x768 --screenshots --screenshots-directory . --slides 1 reveal "http://localhost:9000/" static/img/thumbnail.jpg'
 
     copy:
@@ -105,7 +104,7 @@ module.exports = (grunt) ->
     ]
 
   grunt.registerTask 'pdf',
-    'Render a PDF copy of the presentation (using PhantomJS)', [
+    'Render a **PDF** copy of the presentation (using PhantomJS)', [
       'serve'
       'exec:print'
       'exec:thumbnail'
