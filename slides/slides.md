@@ -42,6 +42,13 @@ John 20:31 (NASB)
 </div>
 
 ---
+Q.125: What does **true faith** imply?
+
+A: Real **repentance** and **sorrow** for sin: <br/>
+that we become **convinced** of our sinfulness, <br/>
+and **repent** thereof.
+
+---
 **Cast away** from you all the **transgressions** <br/>
 that you have committed, <br/>
 and make yourselves a **new heart** and a **new spirit**!
@@ -52,6 +59,20 @@ declares the Lord God; so **turn**, and **live**.
 
 <div class="ref">
 Ezekiel 18:31-32 (ESV)
+</div>
+
+---
+But when the **goodness** and **loving kindness** <br/>
+of God our **Savior** appeared, he **saved** us,
+
+not because of **works** done by us in righteousness,  <br/>
+but according to his own **mercy**,
+
+by the washing of **regeneration** <br/>
+and **renewal** of the Holy Spirit
+
+<div class="ref">
+Titus 3:4-5 (ESV)
 </div>
 
 ---
