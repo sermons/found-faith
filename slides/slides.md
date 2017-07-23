@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Jztmx9yqjBw-stars.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## One Foundation (3):
 # Faith in Christ
 
@@ -33,6 +33,7 @@
 + this + next week: our **response**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
 1. What is **Faith**?
   1. Saving **Faith**
@@ -150,7 +151,18 @@ Hebrews 11:1 (KJV)
 + **live**: taking God at His Word
 
 ---
-## outline 2
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+## Week 3: Faith in Christ
+1. What is Faith
+  1. Saving Faith
+  1. New Birth and Godly Life
+1. **Being Made Holy**
+  1. **Justification**
+  1. **Sanctification**
+1. The Sacraments
+  1. The Church of God
+  1. Baptism
+  1. The Lord's Supper
 
 ---
 We beg you on behalf of Christ, be **reconciled** to God.
@@ -215,7 +227,18 @@ Hebrews 10:14 (ESV)
 # Are we **holy**?
 
 ---
-## outline 3
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+## Week 3: Faith in Christ
+1. What is Faith
+  1. Saving Faith
+  1. New Birth and Godly Life
+1. Being Made Holy
+  1. Justification
+  1. Sanctification
+1. **The Sacraments**
+  1. **The Church of God**
+  1. Baptism
+  1. The Lord's Supper
 
 ---
 To the **church** of God that is in Corinth, <br/>
@@ -247,6 +270,20 @@ and all the more as you see **the Day** drawing near.
 <div class="ref">
 Hebrews 10:24-25 (ESV)
 </div>
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+## Week 3: Faith in Christ
+1. What is Faith
+  1. Saving Faith
+  1. New Birth and Godly Life
+1. Being Made Holy
+  1. Justification
+  1. Sanctification
+1. **The Sacraments**
+  1. The Church of God
+  1. **Baptism**
+  1. The Lord's Supper
 
 ---
 Go therefore and **make disciples** of all nations,
@@ -286,6 +323,20 @@ Romans 6:4-5 (ESV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+## Week 3: Faith in Christ
+1. What is Faith
+  1. Saving Faith
+  1. New Birth and Godly Life
+1. Being Made Holy
+  1. Justification
+  1. Sanctification
+1. **The Sacraments**
+  1. The Church of God
+  1. Baptism
+  1. **The Lord's Supper**
+
+---
 When He had given thanks, He broke it and said, <br/>
 “This is My **body**, which is for you; <br/>
 do this in **remembrance** of Me.”
@@ -321,3 +372,28 @@ eats and drinks **judgment** on himself
 <!-- .slide: data-background="white" -->
 # What is the symbolism of **baptism** and **communion**?
 
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+For **by grace** you have been saved **through faith**.
+
+And this is not your **own doing**; it is the **gift of God**, <br/>
+not a result of **works**, so that no one may **boast**
+
+For we are his **workmanship**, created in Christ Jesus for **good works**, <br/>
+which God prepared beforehand, that we should **walk** in them.
+
+<div class="ref">
+Ephesians 2:8-10 (ESV)
+</div>
+
+>>>
++ Christ showed **grace** to us
+  + free **gift**
++ Our response is to **trust** Him
+  + repentance, belief, life
++ God **formed** us for good **works**
+  + not **passive** enjoyment
++ **next** time: what are these **good works**?
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" class="empty" -->
