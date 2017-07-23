@@ -11,6 +11,11 @@
 <!-- .slide: data-background="white" -->
 # What must we **do** to be **saved**?
 
+>>>
++ salvation is not **universal**:
+  + Christ **died** for all, but
+  + not all will be **saved**:
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 ## One Foundation <span class="ref">(Elbing)</span>
@@ -22,6 +27,10 @@
     + **Faith** in Christ <span class="ref">(wk 3)</span>
     + **Life** and Conduct <span class="ref">(wk 4)</span>
   1. **Consummation** <span class="ref">(wk 5)</span>
+
+>>>
++ last week: **God's** plan to save us
++ this + next week: our **response**
 
 ---
 ## Week 3: Faith in Christ
@@ -36,6 +45,14 @@
   1. **Baptism**
   1. The **Lord's Supper**
 
+>>>
+Outline for today:
++ What does it mean to have **faith** in Christ? 
++ Are we **holy / righteous** in God's sight? 
++ What are the **sacraments**?
+  + holy (set aside, special) rituals
+  + **symbolic** meaning
+
 ---
 These have been written so that you may **believe** <br/>
 that Jesus is the **Christ**, the **Son of God**; <br/>
@@ -45,12 +62,25 @@ and that believing you may have **life** in His name.
 John 20:31 (NASB)
 </div>
 
+>>>
++ **purpose** why John recorded gospel:
+  + **believe** (faith) in Jesus:
+    + is the **Christ**
+    + is the Son of **God**
+  + have **life** in Him (regeneration)
++ so what does **faith** entail? 
+
 ---
 Q.125: What does **true faith** imply?
 
 A: Real **repentance** and **sorrow** for sin: <br/>
 that we become **convinced** of our sinfulness, <br/>
 and **repent** thereof.
+
+>>>
++ **repentance**:
++ recognize we are utterly **lost** without Christ
++ **turn**: change of heart
 
 ---
 **Cast away** from you all the **transgressions** <br/>
@@ -65,6 +95,13 @@ declares the Lord God; so **turn**, and **live**.
 Ezekiel 18:31-32 (ESV)
 </div>
 
+>>>
++ God **desires** that all may be saved
++ but we must **turn**:
+  + **away** from sin + selfishness
+  + **toward** God
++ **new heart**: 
+
 ---
 But when the **goodness** and **loving kindness** <br/>
 of God our **Savior** appeared, he **saved** us,
@@ -78,6 +115,28 @@ and **renewal** of the Holy Spirit
 <div class="ref">
 Titus 3:4-5 (ESV)
 </div>
+
+>>>
++ regeneration: born again (Nicodemus)
+
+---
+Now faith is the **substance** of things **hoped** for, <br/>
+the **evidence** of things **not seen**.
+
+By faith **Abel**, ... **Enoch**, ... **Noah**, ...
+
+<div class="ref">
+Hebrews 11:1 (KJV)
+</div>
+
+>>>
++ "substance" (ὑπόστασις): support
+  + NAS/ESV: assurance
+  + NIV: confidence
++ "evidence" (ἔλεγχος): proof
+  + NAS/ESV: conviction
+  + NIV: assurance
++ **life** of taking God at His Word
 
 ---
 <!-- .slide: data-background="white" -->
