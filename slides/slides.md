@@ -35,7 +35,7 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
-1. Saving *Faith*
+1. Saving **Faith**
   1. New *Birth* and Godly *Life*
 1. Being Made **Holy**
   1. *Justification*
