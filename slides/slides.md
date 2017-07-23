@@ -312,7 +312,7 @@ Hebrews 10:24-25 (ESV)
   1. The Lord's Supper
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3sR_0NhWMEI-water_ocean_calm.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-Wa-gS5R58gA-group_silhouette.jpg" -->
 Go therefore and **make disciples** of all nations,
 
 **baptizing** them in the name of the Father <br/>
@@ -326,6 +326,7 @@ Matthew 28:19-20 (ESV)
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3sR_0NhWMEI-water_ocean_calm.jpg" -->
 Q.146: What is the **purpose** of baptism?
 
 A: It **identifies** the believer with his Lord.
@@ -349,13 +350,8 @@ just as Christ was **raised** from the dead  <br/>
 by the glory of the Father,  <br/>
 we too might walk in **newness of life**.
 
-For if we have been **united** with him <br/>
-in a **death** like his, <br/>
-we shall certainly be united with him  <br/>
-in a **resurrection** like his.
-
 <div class="ref">
-Romans 6:4-5 (ESV)
+Romans 6:4 (ESV)
 </div>
 
 ---
@@ -375,12 +371,10 @@ Romans 6:4-5 (ESV)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 When He had given thanks, He broke it and said, <br/>
 “This is My **body**, which is for you; <br/>
-do this in **remembrance** of Me.”
+do this in **remembrance** of Me.” ...
 
-In the same way He took the **cup** <br/>
-also after supper, saying, <br/>
 “This cup is the **new covenant** in My blood; <br/>
-do this, as often as you drink it,
+do this, as often as you drink it, <br/>
 in **remembrance** of Me.”
 
 <div class="ref">
@@ -420,13 +414,8 @@ And this is not your **own doing**; <br/>
 it is the **gift of God**, <br/>
 not a result of **works**, so that no one may **boast**
 
-For we are his **workmanship**, <br/>
-created in Christ Jesus for **good works**, <br/>
-which God prepared beforehand, <br/>
-that we should **walk** in them.
-
 <div class="ref">
-Ephesians 2:8-10 (ESV)
+Ephesians 2:8-9 (ESV) (p.1/2)
 </div>
 
 >>>
@@ -434,6 +423,20 @@ Ephesians 2:8-10 (ESV)
   + free **gift**
 + Our response is to **trust** Him
   + repentance, belief, life
+
+---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+For we are his **workmanship**, <br/>
+created in Christ Jesus for **good works**,
+
+which God prepared beforehand, <br/>
+that we should **walk** in them.
+
+<div class="ref">
+Ephesians 2:10 (ESV) (p.2/2)
+</div>
+
+>>>
 + God **formed** us for good **works**
   + not **passive** enjoyment
 + **next** time: what are these **good works**?
