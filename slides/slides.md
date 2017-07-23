@@ -9,7 +9,7 @@
 
 ---
 <!-- .slide: data-background="white" -->
-# What must we **do** to be **saved**?
+# What must we **do** <br/> to be **saved**?
 
 >>>
 + salvation is not **universal**:
@@ -140,7 +140,7 @@ Hebrews 11:1 (KJV)
 
 ---
 <!-- .slide: data-background="white" -->
-# What kind of **faith** saves us?
+# What kind of **faith** <br/> saves us?
 
 >>>
 + **repent** (turn):
@@ -155,7 +155,8 @@ Hebrews 11:1 (KJV)
 ---
 We beg you on behalf of Christ, be **reconciled** to God.
 
-He made Him who **knew no sin** to **be sin** on our behalf, <br/>
+He made Him who knew **no sin** <br/>
+to **be sin** on our behalf, <br/>
 so that we might become the **righteousness of God** in Him.
 
 <div class="ref">
@@ -310,11 +311,13 @@ eats and drinks **judgment** on himself
 </div>
 
 >>>
-+ "discern" (διακρίνων): distinguish, separate, recognise distinction
-  + body of **Christ**: recognize uniqueness of sacrifice
-  + **own** body: judge by God's standard
-  + body of **church**: called out from the world
++ "discern" (διακρίνων): **judge** back-and-forth
+  + distinguish, separate, recognise distinction
++ body of **Christ**: recognize uniqueness of sacrifice
++ **own** body: judge by God's standard
++ body of **church**: called out from the world
 
 ---
 <!-- .slide: data-background="white" -->
 # What is the symbolism of **baptism** and **communion**?
+
