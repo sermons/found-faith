@@ -8,6 +8,10 @@
 </div>
 
 ---
+<!-- .slide: data-background="white" -->
+# What must we **do** to be **saved**?
+
+---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 ## One Foundation <span class="ref">(Elbing)</span>
 1. **Creation** (who *God* is) <span class="ref">(wk 1)</span>
@@ -77,18 +81,19 @@ Titus 3:4-5 (ESV)
 
 ---
 <!-- .slide: data-background="white" -->
-# Q1
+# What kind of **faith** saves us? 
 
 ---
 ## outline 2
 
 ---
 <!-- .slide: data-background="white" -->
-# Q2
+# Are we **righteous** in God's eyes? 
+# Are we **holy**?
 
 ---
 ## outline 3
 
 ---
 <!-- .slide: data-background="white" -->
-# Q3
+# What is the symbolism of **baptism** and **communion**?
