@@ -154,5 +154,19 @@ Hebrews 11:1 (KJV)
 ## outline 3
 
 ---
+When He had given thanks, He broke it and said, <br/>
+“This is My **body**, which is for you; <br/>
+do this in **remembrance** of Me.”
+
+In the same way He took the **cup** also after supper, <br/>
+saying, “This cup is the **new covenant** in My blood; <br/>
+do this, as often as you drink it, 
+in **remembrance** of Me.”
+
+<div class="ref">
+1 Corinthians 11:24-25 (NASB)
+</div>
+
+---
 <!-- .slide: data-background="white" -->
 # What is the symbolism of **baptism** and **communion**?
