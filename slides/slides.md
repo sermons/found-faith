@@ -163,18 +163,20 @@ so that we might become the **righteousness of God** in Him.
 </div>
 
 ---
-For by a single **offering** <br/>
-he **has perfected** for all time <br/>
-those who **are being sanctified**.
+But now that you have been set **free from sin** <br/>
+and have become **slaves of God**,
+
+the **fruit** you get leads to **sanctification** <br/>
+and its end, **eternal life**.
 
 <div class="ref">
-Hebrews 10:14 (ESV)
+Romans 6:22 (ESV)
 </div>
 
 >>>
-+ last week: single offering
-+ has perfected: finished justification
-+ being sanctified: in progress
++ v20-21: slave to sin
+  + &rArr; fruit of shame
+  + &rArr; end is death
 
 ---
 As **obedient** children, do not be conformed  <br/>
@@ -193,12 +195,94 @@ you also **be holy** in all your conduct
   + not graded on a **curve**
 
 ---
+For by a single **offering** <br/>
+he **has perfected** for all time <br/>
+those who **are being sanctified**.
+
+<div class="ref">
+Hebrews 10:14 (ESV)
+</div>
+
+>>>
++ last week: single offering
++ has perfected: finished justification
++ being sanctified: in progress
+
+---
 <!-- .slide: data-background="white" -->
 # Are we **righteous** in God's eyes?
 # Are we **holy**?
 
 ---
 ## outline 3
+
+---
+To the **church** of God that is in Corinth, <br/>
+to those **sanctified** in Christ Jesus,  <br/>
+**called** to be saints together
+
+with all those who in **every place**  <br/>
+**call** upon the name of our Lord **Jesus Christ**,  <br/>
+both **their** Lord and **ours**
+
+<div class="ref">
+1 Corinthians 1:2 (ESV)
+</div>
+
+>>>
++ this is the **church**:
++ **sanctified**
++ **called** together
++ **call** upon Christ as **Lord**
+
+---
+And let us consider how to  <br/>
+**stir** up one another to **love** and **good works**,
+
+not neglecting to **meet together**, as is the habit of some,  <br/>
+but **encouraging** one another,  <br/>
+and all the more as you see **the Day** drawing near.
+
+<div class="ref">
+Hebrews 10:24-25 (ESV)
+</div>
+
+---
+Go therefore and **make disciples** of all nations,
+
+**baptizing** them in the name of the Father <br/>
+and of the Son and of the Holy Spirit,
+
+**teaching** them to observe all that I have commanded you.
+
+<div class="ref">
+Matthew 28:19-20 (ESV)
+</div>
+
+---
+Q.146: What is the **purpose** of baptism?
+
+A: It **identifies** the believer with his Lord.
++ It is also an **ordinance** of Christ
+  serving as a sign
+  + of being spiritually **born** of God,
+  + of **putting on** Christ,
+  + and of being **united** with the Church.
++ It is the evidence of a **covenant** with Christ.
+
+---
+We were **buried** therefore with him by **baptism** into death, <br/>
+in order that, just as Christ was **raised** from the dead  <br/>
+by the glory of the Father,  <br/>
+we too might walk in **newness of life**.
+
+For if we have been **united** with him in a **death** like his, <br/>
+we shall certainly be united with him  <br/>
+in a **resurrection** like his.
+
+<div class="ref">
+Romans 6:4-5 (ESV)
+</div>
 
 ---
 When He had given thanks, He broke it and said, <br/>
@@ -213,6 +297,23 @@ in **remembrance** of Me.”
 <div class="ref">
 1 Corinthians 11:24-25 (NASB)
 </div>
+
+---
+Let a person **examine himself**, then,
+and so eat of the bread and drink of the cup.
+
+For anyone who eats and drinks without **discerning the body**
+eats and drinks **judgment** on himself
+
+<div class="ref">
+1 Corinthians 11:28-29 (ESV)
+</div>
+
+>>>
++ "discern" (διακρίνων): distinguish, separate, recognise distinction
+  + body of **Christ**: recognize uniqueness of sacrifice
+  + **own** body: judge by God's standard
+  + body of **church**: called out from the world
 
 ---
 <!-- .slide: data-background="white" -->
