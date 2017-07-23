@@ -35,8 +35,7 @@
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
-1. What is **Faith**?
-  1. Saving *Faith*
+1. Saving *Faith*
   1. New *Birth* and Godly *Life*
 1. Being Made **Holy**
   1. *Justification*
@@ -73,6 +72,7 @@ John 20:31 (NASB)
     + is the **Christ**
     + is the Son of **God**
   + have **life** in Him (regeneration)
++ repentance &rArr; **faith** &rArr; new **life**
 + so what does **faith** entail?
 
 ---
@@ -112,13 +112,10 @@ Ezekiel 18:31-32 (ESV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bryandilts-grandfather.jpg" -->
-But when the **goodness** and **loving kindness** <br/>
-of God our **Savior** appeared, he **saved** us,
+He **saved** us, not because of **works** <br/>
+done by us in righteousness,
 
-not because of **works** <br/>
-done by us in righteousness,  <br/>
-but according to his own **mercy**,
-
+but according to his own **mercy**, <br/>
 by the washing of **regeneration** <br/>
 and **renewal** of the Holy Spirit
 
@@ -163,8 +160,7 @@ Hebrews 11:1 (KJV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
-1. What is Faith
-  1. Saving Faith
+1. Saving Faith
   1. New Birth and Godly Life
 1. **Being Made Holy**
   1. **Justification**
@@ -182,7 +178,7 @@ Hebrews 11:1 (KJV)
   + set **apart**, distinct, not common / defiled
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-xCdFXXoZkJc-dark_sky.jpg" -->
 We beg you on behalf of Christ, <br/>
 be **reconciled** to God.
 
@@ -201,6 +197,7 @@ the **righteousness of God** in Him.
 + through **unfairness** of sin **imputed** to Christ
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-gtVrejEGdmM-chain.jpg" -->
 But now that you have been set **free from sin** <br/>
 and have become **slaves of God**,
 
@@ -256,8 +253,7 @@ Hebrews 10:14 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
-1. What is Faith
-  1. Saving Faith
+1. Saving Faith
   1. New Birth and Godly Life
 1. Being Made Holy
   1. Justification
@@ -305,8 +301,7 @@ Hebrews 10:24-25 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
-1. What is Faith
-  1. Saving Faith
+1. Saving Faith
   1. New Birth and Godly Life
 1. Being Made Holy
   1. Justification
@@ -366,8 +361,7 @@ Romans 6:4-5 (ESV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
-1. What is Faith
-  1. Saving Faith
+1. Saving Faith
   1. New Birth and Godly Life
 1. Being Made Holy
   1. Justification
