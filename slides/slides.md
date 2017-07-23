@@ -55,6 +55,7 @@ Outline for today:
   + **symbolic** meaning
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-c333d6YEhi0-bible.jpg" -->
 These have been written <br/>
 so that you may **believe** <br/>
 that Jesus is the **Christ**, the **Son of God**;
@@ -75,6 +76,7 @@ John 20:31 (NASB)
 + so what does **faith** entail?
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-pZVi92S-ZMs-hands_raised.jpg" -->
 Q.125: What does **true faith** imply?
 
 A: Real **repentance** and **sorrow** for sin: <br/>
@@ -87,6 +89,7 @@ and **repent** thereof.
 + **turn**: change of heart
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-u0vgcIOQG08-forest_road_fork.jpg" -->
 **Cast away** from you all the **transgressions** <br/>
 that you have committed, <br/>
 and make yourselves a **new heart** <br/>
@@ -108,6 +111,7 @@ Ezekiel 18:31-32 (ESV)
 + **new heart**:
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bryandilts-grandfather.jpg" -->
 But when the **goodness** and **loving kindness** <br/>
 of God our **Savior** appeared, he **saved** us,
 
@@ -126,6 +130,7 @@ Titus 3:4-5 (ESV)
 + regeneration: born again (Nicodemus)
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 Now faith is the **substance** of things **hoped** for, <br/>
 the **evidence** of things **not seen**.
 
@@ -177,6 +182,7 @@ Hebrews 11:1 (KJV)
   + set **apart**, distinct, not common / defiled
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-FAVdyq1Qz24-aus-rock-beach.jpg" -->
 We beg you on behalf of Christ, <br/>
 be **reconciled** to God.
 
@@ -189,6 +195,10 @@ the **righteousness of God** in Him.
 <div class="ref">
 2 Corinthians 5:20-21 (NASB)
 </div>
+
+>>>
++ become **righteousness**: justified
++ through **unfairness** of sin **imputed** to Christ
 
 ---
 But now that you have been set **free from sin** <br/>
@@ -207,6 +217,7 @@ Romans 6:22 (ESV)
   + &rArr; end is death
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/father_son_walk.jpg" -->
 As **obedient** children, do not be conformed  <br/>
 to the **passions** of your former **ignorance**,
 
@@ -223,6 +234,7 @@ you also **be holy** in all your conduct
   + not graded on a **curve**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-09AhDCedXF8-cross.jpg" -->
 For by a single **offering** <br/>
 he **has perfected** for all time <br/>
 those who **are being sanctified**.
@@ -256,6 +268,7 @@ Hebrews 10:14 (ESV)
   1. The Lord's Supper
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-agS-BtrQZrs-train_station.jpg" -->
 To the **church** of God that is in Corinth, <br/>
 to those **sanctified** in Christ Jesus,  <br/>
 **called** to be saints together
@@ -275,6 +288,7 @@ both **their** Lord and **ours**
 + **call** upon Christ as **Lord**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
 And let us consider how to  <br/>
 **stir** up one another to **love** and **good works**,
 
@@ -303,6 +317,7 @@ Hebrews 10:24-25 (ESV)
   1. The Lord's Supper
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-3sR_0NhWMEI-water_ocean_calm.jpg" -->
 Go therefore and **make disciples** of all nations,
 
 **baptizing** them in the name of the Father <br/>
@@ -325,7 +340,12 @@ A: It **identifies** the believer with his Lord.
   + and of being **united** with the Church.
 + It is the evidence of a **covenant** with Christ.
 
+<div class="ref">
+Elbing Catechism
+</div>
+
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-36K89610LZ-cross_mtn_lake.jpg" -->
 We were **buried** therefore with him <br/>
 by **baptism** into death, in order that, <br/>
 just as Christ was **raised** from the dead  <br/>
@@ -356,6 +376,7 @@ Romans 6:4-5 (ESV)
   1. **The Lord's Supper**
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 When He had given thanks, He broke it and said, <br/>
 “This is My **body**, which is for you; <br/>
 do this in **remembrance** of Me.”
@@ -371,6 +392,7 @@ in **remembrance** of Me.”
 </div>
 
 ---
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
 Let a person **examine himself**, then,
 and so eat of the bread and drink of the cup.
 
