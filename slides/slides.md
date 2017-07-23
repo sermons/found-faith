@@ -289,8 +289,8 @@ both **their** Lord and **ours**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-UOwvwZ9Dy6w-hold_hands.jpg" -->
-And let us consider how to  <br/>
-**stir** up one another to **love** and **good works**,
+And let us consider how to **stir** up <br/>
+one another to **love** and **good works**,
 
 not neglecting to **meet together**, <br/>
 as is the habit of some,  <br/>
@@ -323,7 +323,8 @@ Go therefore and **make disciples** of all nations,
 **baptizing** them in the name of the Father <br/>
 and of the Son and of the Holy Spirit,
 
-**teaching** them to observe all that I have commanded you.
+**teaching** them to observe <br/>
+all that I have commanded you.
 
 <div class="ref">
 Matthew 28:19-20 (ESV)
@@ -347,7 +348,8 @@ Elbing Catechism
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/stocksnap-36K89610LZ-cross_mtn_lake.jpg" -->
 We were **buried** therefore with him <br/>
-by **baptism** into death, in order that, <br/>
+by **baptism** into death, in order that,
+
 just as Christ was **raised** from the dead  <br/>
 by the glory of the Father,  <br/>
 we too might walk in **newness of life**.
@@ -393,8 +395,8 @@ in **remembrance** of Me.”
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-SrlmVWkVfJM-cross.jpg" -->
-Let a person **examine himself**, then,
-and so eat of the bread and drink of the cup.
+Let a person **examine himself**, then, and so <br/>
+eat of the bread and drink of the cup.
 
 For anyone who eats and drinks <br/>
 without **discerning** the **body** <br/>
