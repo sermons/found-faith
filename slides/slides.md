@@ -36,15 +36,15 @@
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
 ## Week 3: Faith in Christ
 1. What is **Faith**?
-  1. Saving **Faith**
-  1. New **Birth** and Godly **Life**
+  1. Saving *Faith*
+  1. New *Birth* and Godly *Life*
 1. Being Made **Holy**
-  1. **Justification**
-  1. **Sanctification**
+  1. *Justification*
+  1. *Sanctification*
 1. The **Sacraments**
-  1. The **Church** of God
-  1. **Baptism**
-  1. The **Lord's Supper**
+  1. The *Church* of God
+  1. *Baptism*
+  1. The *Lord's Supper*
 
 >>>
 Outline for today:
@@ -55,9 +55,12 @@ Outline for today:
   + **symbolic** meaning
 
 ---
-These have been written so that you may **believe** <br/>
-that Jesus is the **Christ**, the **Son of God**; <br/>
-and that believing you may have **life** in His name.
+These have been written <br/>
+so that you may **believe** <br/>
+that Jesus is the **Christ**, the **Son of God**;
+
+and that believing <br/>
+you may have **life** in His name.
 
 <div class="ref">
 John 20:31 (NASB)
@@ -86,7 +89,8 @@ and **repent** thereof.
 ---
 **Cast away** from you all the **transgressions** <br/>
 that you have committed, <br/>
-and make yourselves a **new heart** and a **new spirit**!
+and make yourselves a **new heart** <br/>
+and a **new spirit**!
 
 **Why** will you die, O house of Israel? <br/>
 For I have **no pleasure** in the death of anyone, <br/>
@@ -107,7 +111,8 @@ Ezekiel 18:31-32 (ESV)
 But when the **goodness** and **loving kindness** <br/>
 of God our **Savior** appeared, he **saved** us,
 
-not because of **works** done by us in righteousness,  <br/>
+not because of **works** <br/>
+done by us in righteousness,  <br/>
 but according to his own **mercy**,
 
 by the washing of **regeneration** <br/>
@@ -164,12 +169,22 @@ Hebrews 11:1 (KJV)
   1. Baptism
   1. The Lord's Supper
 
+>>>
++ justification: deemed **righteous**
+  + no longer under **judgment**
++ sanctification: cleansed **holy**
+  + **clean** vs unclean
+  + set **apart**, distinct, not common / defiled
+
 ---
-We beg you on behalf of Christ, be **reconciled** to God.
+We beg you on behalf of Christ, <br/>
+be **reconciled** to God.
 
 He made Him who knew **no sin** <br/>
-to **be sin** on our behalf, <br/>
-so that we might become the **righteousness of God** in Him.
+to **be sin** on our behalf,
+
+so that we might become <br/>
+the **righteousness of God** in Him.
 
 <div class="ref">
 2 Corinthians 5:20-21 (NASB)
@@ -263,9 +278,11 @@ both **their** Lord and **ours**
 And let us consider how to  <br/>
 **stir** up one another to **love** and **good works**,
 
-not neglecting to **meet together**, as is the habit of some,  <br/>
+not neglecting to **meet together**, <br/>
+as is the habit of some,  <br/>
 but **encouraging** one another,  <br/>
-and all the more as you see **the Day** drawing near.
+and all the more as <br/>
+you see **the Day** drawing near.
 
 <div class="ref">
 Hebrews 10:24-25 (ESV)
@@ -301,20 +318,22 @@ Matthew 28:19-20 (ESV)
 Q.146: What is the **purpose** of baptism?
 
 A: It **identifies** the believer with his Lord.
-+ It is also an **ordinance** of Christ
-  serving as a sign
++ It is also an **ordinance** of Christ <br/>
+  serving as a **sign**
   + of being spiritually **born** of God,
   + of **putting on** Christ,
   + and of being **united** with the Church.
 + It is the evidence of a **covenant** with Christ.
 
 ---
-We were **buried** therefore with him by **baptism** into death, <br/>
-in order that, just as Christ was **raised** from the dead  <br/>
+We were **buried** therefore with him <br/>
+by **baptism** into death, in order that, <br/>
+just as Christ was **raised** from the dead  <br/>
 by the glory of the Father,  <br/>
 we too might walk in **newness of life**.
 
-For if we have been **united** with him in a **death** like his, <br/>
+For if we have been **united** with him <br/>
+in a **death** like his, <br/>
 we shall certainly be united with him  <br/>
 in a **resurrection** like his.
 
@@ -341,8 +360,9 @@ When He had given thanks, He broke it and said, <br/>
 “This is My **body**, which is for you; <br/>
 do this in **remembrance** of Me.”
 
-In the same way He took the **cup** also after supper, <br/>
-saying, “This cup is the **new covenant** in My blood; <br/>
+In the same way He took the **cup** <br/>
+also after supper, saying, <br/>
+“This cup is the **new covenant** in My blood; <br/>
 do this, as often as you drink it,
 in **remembrance** of Me.”
 
@@ -354,7 +374,8 @@ in **remembrance** of Me.”
 Let a person **examine himself**, then,
 and so eat of the bread and drink of the cup.
 
-For anyone who eats and drinks without **discerning the body**
+For anyone who eats and drinks <br/>
+without **discerning** the **body** <br/>
 eats and drinks **judgment** on himself
 
 <div class="ref">
@@ -374,13 +395,17 @@ eats and drinks **judgment** on himself
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
-For **by grace** you have been saved **through faith**.
+For by **grace** you have been saved <br/>
+through **faith**.
 
-And this is not your **own doing**; it is the **gift of God**, <br/>
+And this is not your **own doing**; <br/>
+it is the **gift of God**, <br/>
 not a result of **works**, so that no one may **boast**
 
-For we are his **workmanship**, created in Christ Jesus for **good works**, <br/>
-which God prepared beforehand, that we should **walk** in them.
+For we are his **workmanship**, <br/>
+created in Christ Jesus for **good works**, <br/>
+which God prepared beforehand, <br/>
+that we should **walk** in them.
 
 <div class="ref">
 Ephesians 2:8-10 (ESV)
