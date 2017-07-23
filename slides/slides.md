@@ -47,8 +47,8 @@
 
 >>>
 Outline for today:
-+ What does it mean to have **faith** in Christ? 
-+ Are we **holy / righteous** in God's sight? 
++ What does it mean to have **faith** in Christ?
++ Are we **holy / righteous** in God's sight?
 + What are the **sacraments**?
   + holy (set aside, special) rituals
   + **symbolic** meaning
@@ -68,7 +68,7 @@ John 20:31 (NASB)
     + is the **Christ**
     + is the Son of **God**
   + have **life** in Him (regeneration)
-+ so what does **faith** entail? 
++ so what does **faith** entail?
 
 ---
 Q.125: What does **true faith** imply?
@@ -100,7 +100,7 @@ Ezekiel 18:31-32 (ESV)
 + but we must **turn**:
   + **away** from sin + selfishness
   + **toward** God
-+ **new heart**: 
++ **new heart**:
 
 ---
 But when the **goodness** and **loving kindness** <br/>
@@ -140,14 +140,61 @@ Hebrews 11:1 (KJV)
 
 ---
 <!-- .slide: data-background="white" -->
-# What kind of **faith** saves us? 
+# What kind of **faith** saves us?
+
+>>>
++ **repent** (turn):
+  + away from sin
+  + toward God
++ **believe**: Christ, Son of God
++ **live**: taking God at His Word
 
 ---
 ## outline 2
 
 ---
+We beg you on behalf of Christ, be **reconciled** to God.
+
+He made Him who **knew no sin** to **be sin** on our behalf, <br/>
+so that we might become the **righteousness of God** in Him.
+
+<div class="ref">
+2 Corinthians 5:20-21 (NASB)
+</div>
+
+---
+For by a single **offering** <br/>
+he **has perfected** for all time <br/>
+those who **are being sanctified**.
+
+<div class="ref">
+Hebrews 10:14 (ESV)
+</div>
+
+>>>
++ last week: single offering
++ has perfected: finished justification
++ being sanctified: in progress
+
+---
+As **obedient** children, do not be conformed  <br/>
+to the **passions** of your former **ignorance**,
+
+but as he who **called** you is holy,  <br/>
+you also **be holy** in all your conduct
+
+<div class="ref">
+1 Peter 1:14-15 (ESV)
+</div>
+
+>>>
++ standard is **God**
+  + not **other** people
+  + not graded on a **curve**
+
+---
 <!-- .slide: data-background="white" -->
-# Are we **righteous** in God's eyes? 
+# Are we **righteous** in God's eyes?
 # Are we **holy**?
 
 ---
@@ -160,7 +207,7 @@ do this in **remembrance** of Me.”
 
 In the same way He took the **cup** also after supper, <br/>
 saying, “This cup is the **new covenant** in My blood; <br/>
-do this, as often as you drink it, 
+do this, as often as you drink it,
 in **remembrance** of Me.”
 
 <div class="ref">
