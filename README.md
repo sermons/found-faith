@@ -3,7 +3,7 @@
 
 [![Build status](https://travis-ci.org/sermons/found-faith.svg)](https://travis-ci.org/sermons/found-faith)
 [![Node deps](https://david-dm.org/sermons/found-faith.svg)](https://david-dm.org/sermons/found-faith)
-[![Node devDeps](https://david-dm.org/sermons/found-faith/dev-status.svg)](https://david-dm.org/sermons/found-faith#info=devDependencies)
+[![Node devDeps](https://david-dm.org/sermons/found-faith/dev-status.svg)](https://david-dm.org/sermons/found-faith?type=dev)
 
 Template presentation: [reveal-skel](https://github.com/sermons/reveal-skel)
 
