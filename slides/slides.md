@@ -111,7 +111,7 @@ Ezekiel 18:31-32 (ESV)
 + **new heart**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/bryandilts-grandfather.jpg" -->
+<!-- .slide: <%= bg("unsplash-b8rkmfxZjdU-kids.jpg") %> -->
 He **saved** us, not because of **works** <br/>
 done by us in righteousness,
 
@@ -122,6 +122,7 @@ and **renewal** of the Holy Spirit
 <div class="ref">
 Titus 3:4-5 (ESV)
 </div>
+[Great Smoky Mountains, USA. Jordan Whitt](https://unsplash.com/photos/b8rkmfxZjdU "caption")
 
 >>>
 + regeneration: born again (Nicodemus)
