@@ -1,11 +1,9 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-bEbqpPeHEM4-kneel_beach.jpg" -->
+<!-- .slide: <%= bg("unsplash-bEbqpPeHEM4-kneel_beach.jpg") %> id="title" -->
 ## One Foundation (3):
 # Faith in Christ
 
-<div class="ref">
-[(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi)
-[(Workbook)](https://archive.org/details/catechismworkboo00unse)
-</div>
+[(Elbing Catechism)](https://archive.org/details/catechismorbrief00elbi "ref")
+[(Workbook)](https://archive.org/details/catechismworkboo00unse "ref")
 
 ---
 <!-- .slide: data-background="white" -->
